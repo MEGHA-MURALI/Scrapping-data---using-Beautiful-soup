@@ -5,4 +5,4 @@ a) Product name
 b) Rating
 c) Flipkart price
 d) Actual price
-e) Discount offere
+e) Discount offered
